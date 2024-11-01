@@ -1,6 +1,6 @@
 print("Select your ride:")
-print("1. Bike")
-print("2. Car")
+print("1. Two wheeler")
+print("2. Four Wheeler")
 
 # select your ride
 choice=int(input("Enter your choice:"))
